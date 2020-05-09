@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "JigsawInstaller", "JigsawInstaller\JigsawInstaller.vdproj", "{C1F08AD0-2674-4E10-A181-7E9C755BBF34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1F08AD0-2674-4E10-A181-7E9C755BBF34}.Debug|Default.ActiveCfg = Debug
+		{C1F08AD0-2674-4E10-A181-7E9C755BBF34}.Debug|Default.Build.0 = Debug
+		{C1F08AD0-2674-4E10-A181-7E9C755BBF34}.Release|Default.ActiveCfg = Release
+		{C1F08AD0-2674-4E10-A181-7E9C755BBF34}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B2716B8-7818-4A79-A69E-5AE812A0281F}
+	EndGlobalSection
+EndGlobal
